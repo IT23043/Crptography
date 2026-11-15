@@ -3,6 +3,8 @@
 **Name:** Anirban Rahi  
 **ID:** IT323043
 
+**Collab:** [**https://colab.research.google.com/drive/19v74nUcmaaBYavGYyoZfPaE4CczdwyKs**](https://colab.research.google.com/drive/19v74nUcmaaBYavGYyoZfPaE4CczdwyKs)
+
 ## 1\. Euclidean Algorithm & Modular Inverse
 
 ### Concept
